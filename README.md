@@ -1,1 +1,3 @@
 - 👋 Hi, I’m RITU TIWARI
+- I am a Software Developer at Altimetrik
+- currently Practicing DSA and Spring boot
